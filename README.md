@@ -2,10 +2,8 @@
 A structured, hands-on guide to mastering linear algebra and essential mathematics for AI and machine learning.
 
 
-
 ##  Stage 1: Foundations of Linear Algebra
 
-> Build your core understanding from the ground up.
 
 **Topics Covered:**
 - Scalars, vectors, and matrices  
@@ -18,7 +16,6 @@ A structured, hands-on guide to mastering linear algebra and essential mathemati
 
 ## Stage 2: Intermediate Concepts & Vector Spaces
 
-> Dig deeper into the structure of data and higher-dimensional math.
 
 **Topics Covered:**
 - Vector spaces and subspaces  
@@ -32,7 +29,6 @@ A structured, hands-on guide to mastering linear algebra and essential mathemati
 
 ##  Stage 3: Applied Math for Machine Learning & AI
 
-> Connect the dots between math and machine learning algorithms.
 
 **Topics Covered:**
 - Calculus for ML (derivatives, partial derivatives, gradients)  
@@ -46,7 +42,6 @@ A structured, hands-on guide to mastering linear algebra and essential mathemati
 
 ##  Stage 4: Code Projects, Visualizations & Real-World AI
 
-> Apply what you've learned in real Python projects and visual demos.
 
 **Project Ideas & Notebooks:**
 - Implement SVD and PCA in Python  
